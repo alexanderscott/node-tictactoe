@@ -1,0 +1,31 @@
+{
+  "name": "tictactoe",
+  "keywords": "tictactoe, tic-tac-toe, node, nodejs",
+  "description": "Tic-tac-toe via nodejs readline",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexanderscott/node-tictactoe.git"
+  },
+  "private": false,
+  "author": "Alex Ehrnschwender <alex@crunchdevelopment.com> (http://alexehrnschwender.com)",
+  "dependencies": {
+    "underscore": "~1.5.2"
+  },
+  "devDependencies": {
+    "supertest": "0.5.x",
+    "mocha": "1.8.x",
+    "should": "1.2.x"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "main": "index",
+  "bin": {
+    "tictactoe": "./bin/tictactoe"
+  },
+  "licenses": [
+{
+	"type": "MIT", "url": "https://github.com/alexanderscott/node-tictactoe/raw/master/LICENSE" } 
+]
+}
