@@ -10,7 +10,7 @@
   "private": false,
   "author": "Alex Ehrnschwender <alex@crunchdevelopment.com> (http://alexehrnschwender.com)",
   "dependencies": {
-    "underscore": "~1.5.2"
+    "underscore": "~1.13.8"
   },
   "devDependencies": {
     "supertest": "0.5.x",
